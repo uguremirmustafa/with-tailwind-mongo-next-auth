@@ -30,3 +30,5 @@ yarn create next-app myapp -e https://github.com/uguremirmustafa/with-tailwind-m
 - Add a loading spinner.
 - Create data fetching functions
 - Add api routes
+- Add a header component to show title of the page
+- Add favicon
