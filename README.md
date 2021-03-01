@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Example
+# Next.js Starter | MongoDB | Tailwind | NextAuth
 
 This is a custom NextJS Starter with these technologies set up:
 
